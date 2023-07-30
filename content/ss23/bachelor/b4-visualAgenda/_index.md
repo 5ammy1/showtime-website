@@ -19,7 +19,7 @@ draft = true
 {{</gallery>}}
 
 {{<section title="Our Goal">}}
-We aim to empower users to host more efficient, productive, and engaging meetings by providing them with a platform that facilitates agenda planning within fixed timeframes and offers a visual representation of the overall agenda and current discussion topic. With our app, users will experience a new level of meeting mastery, ensuring that every minute counts and collaborative decisions are made with clarity and focus while reducing overall stress.
+We aim to empower users to host more efficient, productive, and engaging meetings by providing them with a platform that facilitates agenda planning within fixed time frames and offers a visual representation of the overall agenda and current discussion topic. With our app, users will experience a new level of meeting mastery, ensuring that every minute counts and collaborative decisions are made with clarity and focus while reducing overall stress.
  
 
 {{</section>}}
